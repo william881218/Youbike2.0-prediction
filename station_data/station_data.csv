@@ -1,0 +1,103 @@
+station_no,name_tw,district_tw,address_tw,name_en,district_en,address_en,lat,lng
+500101001,捷運科技大樓站,大安區,復興南路二段235號前,MRT Technology Bldg. Sta.,Daan Dist.,No.235 Sec. 2 Fuxing S. Rd.,25.02605,121.5436
+500101002,復興南路二段273號前,大安區,復興南路二段273號西側,No.273 Sec. 2 Fuxing S. Rd.,Daan Dist.,No.273 Sec. 2 Fuxing S. Rd. (West),25.02565,121.54357
+500101003,國北教大實小東側門,大安區,和平東路二段96巷7號,NTUE Experiment Elementary School (East),Daan Dist.,No. 7 Ln. 96 Sec. 2 Heping E. Rd,25.02429,121.54124
+500101004,和平公園東側,大安區,和平東路二段118巷33號,Heping Park (East),Daan Dist.,No. 33 Ln. 118 Sec. 2 Heping E. Rd,25.02351,121.54282
+500101005,辛亥復興路口西北側,大安區,復興南路二段368號,Xinhai Fuxing Rd. Intersection (Northwest),Daan Dist.,No. 368 Sec. 2 Fuxing S. Rd.,25.02153,121.54299
+500101006,復興南路二段280號前,大安區,復興南路二段280號,No. 280 Sec. 2 Fuxing S. Rd.,Daan Dist.,No. 280 Sec. 2 Fuxing S. Rd.,25.02429,121.54328
+500101007,復興南路二段340巷口,大安區,復興南路二段342號,Ln. 340 Sec. 2 Fuxing S. Rd.,Daan Dist.,No. 342 Sec. 2 Fuxing S. Rd.,25.02253,121.54326
+500101008,新生南路三段52號前,大安區,新生南路三段52號,No. 52 Sec. 3 Xinsheng S. Rd.,Daan Dist.,No. 52 Sec. 3 Xinsheng S. Rd.,25.02112,121.53407
+500101010,新生南路三段82號前,大安區,新生南路三段82號,No. 82 Sec. 3 Xinsheng S. Rd.,Daan Dist.,No. 82 Sec. 3 Xinsheng S. Rd.,25.01894,121.53361
+500101011,羅斯福路三段333巷9號旁,大安區,羅斯福路三段333巷9號,No. 9 Ln. 333 Sec. 3 Roosevelt Rd.,Daan Dist.,No. 9 Ln. 333 Sec. 3 Roosevelt Rd.,25.01757,121.53271
+500101012,辛亥路一段30號前,大安區,辛亥路一段30號,No. 30 Sec. 1 Xinhai Rd.,Daan Dist.,No. 30 Sec. 1 Xinhai Rd.,25.01986,121.52982
+500101014,羅斯福路三段311號前,大安區,羅斯福路三段311號,No. 311 Sec. 3 Roosevelt Rd.,Daan Dist.,No. 311 Sec. 3 Roosevelt Rd.,25.01717,121.53202
+500101016,羅斯福路三段245號前,大安區,羅斯福路三段311號,No. 245 Sec. 3 Roosevelt Rd.,Daan Dist.,No. 311 Sec. 3 Roosevelt Rd.,25.01927,121.52989
+500101015,大安運動中心停車場,大安區,敦南街76巷28號,Taipei Da-an Sports Center Parking lot,Daan Dist.,No. 28 Ln. 76 Dunnan St.,25.020348,121.546446
+500101017,羅斯福路三段269巷5號前,大安區,羅斯福路三段269巷5號,No. 5 Ln. 269 Sec. 3 Roosevelt Rd.,Daan Dist.,No. 5 Ln. 269 Sec. 3 Roosevelt Rd.,25.01913,121.53079
+500101018,溫州公園,大安區,羅斯福路三段283巷11號,Wenzhou Park,Daan Dist.,No. 11 Ln. 283 Sec. 3 Roosevelt Rd.,25.01895,121.53156
+500101019,和平臥龍街口,大安區,臥龍街1號,Heping Wolong St. Intersection,Daan Dist.,No. 1 Wolong St.,25.024461,121.546705
+500101020,溫州停車場,大安區,新生南路三段54巷/溫州街口,Wenzhou Parking Lot,Daan Dist.,Ln. 54 Sec. 3 Xinsheng S. Rd. & Wenzhou St. Intersection,25.02093,121.5331
+500101021,銘傳國小側門,大安區,羅斯福路四段21號旁天橋下,Taipei Municipal MingChuan Elementary School(Side Gate),Daan Dist.,No. 21 Sec. 4 Roosevelt Rd.,25.01385,121.53549
+500101023,第二學生活動中心,大安區,羅斯福路四段107號(西南側),2nd Student Activity Center,Daan Dist.,No. 107 Sec. 4 Roosevelt Rd.(Southwest),25.01244,121.53661
+500101024,臺灣科技大學正門,大安區,基隆路四段43號(臺灣科技大學正門旁小側門靠田徑場),NTUST(Main Gate),Daan Dist.,No. 43 Sec. 4 Keelung Rd.,25.01451,121.54142
+500101025,臺灣科技大學側門,大安區,基隆路四段73巷與基隆路口,NTUST(Side Gate),Daan Dist.,Ln. 73 Sec. 4 Keelung Rd. Intersection,25.01295,121.53973
+500101026,公館公園,大安區,羅斯福路四段113巷基隆路四段41巷口,Gongguan Park,Daan Dist.,Ln. 113 Sec. 4 Roosevelt Rd. & Ln. 41 Sec. 4 Keelung Rd. Intersection,25.01137,121.54062
+500101027,臺灣科技大學後門,大安區,基隆路四段41巷68弄臺科帆船大樓旁,NTUST(Back Gate),Daan Dist.,Aly. 68 Ln. 41 Sec. 4 Keelung Rd.,25.01182,121.54165
+500101028,臺大醫學院附設癌醫中心,大安區,基隆路三段155巷57號西側,NTU Cancer Center,Daan Dist.,No. 57 Ln. 155 Sec. 3 Keelung Rd.(West),25.01426,121.54382
+500101029,臺大環研大樓,大安區,芳蘭路/基隆路三段155巷口,NTU Environment Research Building,Daan Dist.,Fanglan Rd & Ln. 155 Sec. 3 Keelung Rd. Intersection,25.01234,121.54503
+500101030,臺大永齡生醫工程館,大安區,芳蘭路51號西北側,NTU Yonglin Biomedical Engineering Hall,Daan Dist.,No. 51 Fanglan Rd.(Northwest),25.0136,121.54656
+500101031,臺大男七舍前,大安區,長興街/長興街80巷口西側,NTU 7th Men's Dorm,Daan Dist.,Ln. 80 Changxing St. Intersection(West),25.01537,121.54698
+500101032,臺大男一舍前,大安區,長興街50號西北側,NTU 1st Men's Dorm,Daan Dist.,No. 50 Changxing St.(Northwest),25.01637,121.54535
+500101033,臺大男六舍前,大安區,大安區長興街31號,NTU 6th Men's Dorm,Daan Dist.,No. 31 Changxing St.,25.01664,121.5452
+500101034,臺大動物醫院前,大安區,基隆路三段155巷/基隆路四段口,NTU Veterinary Hospital,Daan Dist.,Ln. 155 Sec. 3 Keelung Rd. Intersection,25.01576,121.54291
+500101035,臺大土木研究大樓前,大安區,辛亥路三段188號,NTU Civil Engineering Research Building,Daan Dist.,No. 188 Sec. 3 Xinhai Rd.,25.01787,121.5476
+500101036,臺大萬才館前,大安區,臺大萬才館北側,NTU Wan Tsai Research Hall,Daan Dist.,NTU Wan Tsai Research Hall,25.02032,121.54497
+500101037,臺大國青大樓宿舍前,大安區,辛亥路三段30號西北側,NTU Guo - Ching Building,Daan Dist.,No. 30 Sec. 3 Xinhai Rd.(Northwest),25.02076,121.54432
+500101038,臺大社科院圖書館前,大安區,辛亥路與復興南路口西南側,NTU College of social Sciences Building,Daan Dist.,Xinhai Fuxing Rd. Intersection (Southwest),25.02101,121.54284
+500101039,臺大法人語言訓練中心前,大安區,臺大法人語言訓練中心北側,NTU Language Training & Testing Center,Daan Dist.,NTU Language Training & Testing Center(North),25.02104,121.54081
+500101040,臺大綜合體育館停車場前,大安區,臺大綜合體育館北側,NTU Sports Center Car Park,Daan Dist.,NTU Sports Center(North),25.0222,121.53626
+500101041,辛亥新生路口東南側,大安區,辛亥新生路口東南側,Xinhai Xinsheng Rd. Intersection (Southeast),Daan Dist.,Xinhai Xinsheng Rd. Intersection (Southeast),25.02218,121.53474
+500101042,基隆長興路口東側,大安區,基隆長興路口東側,Keelung Changxing Rd. Intersection(East),Daan Dist.,Keelung Changxing Rd. Intersection(East),25.01727,121.54471
+500101091,國北教大側門南側,大安區,敦南街51號,NTUE Side Gate(South),Daan Dist.,No. 51 Dunnan St.,25.022864,121.546622
+500101092,和平實小東北側,大安區,敦南街73號,Heping Experiment Elementary School (Northeast),Daan Dist.,No. 73 Dunnan St.,25.021641,121.54704
+500101093,大安區健康服務中心,大安區,辛亥路三段15號,Daan District Public Health Center,Daan Dist.,No. 15 Sec. 1 Xinhai Rd.,25.021469,121.544069
+500106001,臺北自來水事業處,中正區,思源街1號東側,Taipei Water Department,Zhongzheng Dist,No.1 Siyuan St. (East),25.013741,121.53068
+500106002,汀州思源街口東南側,中正區,汀州路三段思源街口東南側,Tingzhou Rd. / Siyuan St. intersection (Southeast),Zhongzheng Dist,Sec. 3 Tingzhou Rd./ Siyuan St. intersection (Southeast),25.014697,121.531908
+500106003,捷運公館站(1號出口),中正區,羅斯福路四段68號,MRT Gongguan Sta. (Exit 1),Zhongzheng Dist,No.68 Sec. 4 Roosevelt Rd.,25.014529,121.534374
+500106004,捷運公館站(4號出口),中正區,羅斯福路四段48號,MRT Gongguan Sta. (Exit 4),Zhongzheng Dist,No.48 Sec. 4 Roosevelt Rd.,25.015069,121.533828
+500101013,和平復興路口西北側,大安區,復興南路二段236號,Heping Fuxing Rd. Intersection (Northwest),Daan Dist.,No. 236 Sec. 2 Fuxing S. Rd.,25.02543,121.54332
+500101009,新生南路三段66號前,大安區,新生南路三段66號東側,No. 66 Sec. 3 Xinsheng S. Rd.,Daan Dist.,No. 66 Sec. 3 Xinsheng S. Rd. (East),25.01976,121.53384
+508101045,臺大農業陳列館北側,大安區,農業陳列館北側,NTU Agricultural Exhibition Hall(North),Daan Dist,NTU Agricultural Exhibition Hall(North),25.01839,121.53404
+508106005,臺大水源舍區A棟,中正區,汀洲路三段60巷2弄路側(A舍北側),NTU ShuiYuan Dorms(A),Zhongzheng Dist,Aly. 2 Ln. 60 Sec. 3 Tingzhou Rd. Dorms A(North),25.01493,121.53044
+508106006,臺大卓越研究大樓,中正區,臺大水源舍區C南側,NTU Complex for Research Excellence,Zhongzheng Dist,NTU Prince House Chang Hsing Dorms C(South),25.01466,121.52917
+508106007,臺大水源修齊會館,中正區,思源街16號之1旁,NTU ShuiYuan HsiuChi House,Zhongzheng Dist,No.16-1 Siyuan St.,25.01411,121.52997
+508106008,臺大檔案展示館,中正區,臺大檔案展示館東北側,NTU Archives,Zhongzheng Dist,NTU Archives(Northeast),25.01391,121.52895
+508106009,臺大水源舍區B棟,中正區,汀洲路三段60巷2弄路側(B舍北側),NTU ShuiYuan Dorms(B),Zhongzheng Dist,Aly. 2 Ln. 60 Sec. 3 Tingzhou Rd. Dorms B(North),25.01525,121.53009
+508101043,臺大男八舍東側,大安區,臺大男八舍東側,NTU 8th Men's Dorm(East),Daan Dist,NTU 8th Men's Dorm(East),25.01729,121.54531
+508101044,臺大仰萃樓東南側,大安區,臺大仰萃樓東南側,NTU The Apex Building(Southeast),Daan Dist,NTU The Apex Building(Southeast),25.01408,121.53759
+508101046,臺大管理學院二館北側,大安區,管理學院二號館北側,NTU Building 2 College of Management(North),Daan Dist,NTU Building 2 College of Management(North),25.01355,121.53673
+508101047,臺大土木系館,大安區,臺大土木工程學系所南側,NTU Dept. of Civil Engineering,Daan Dist,NTU Dept. of Civil Engineering(South),25.01761,121.53844
+508101048,臺大大一女舍北側,大安區,臺大女一舍北側,NTU Freshman Women's Dorm(North),Daan Dist,NTU Freshman Women's Dorm(North),25.01547,121.53436
+508101049,臺大女九舍西南側,大安區,臺大女九舍西南側,NTU 9th Women's Dorm(Southwest),Daan Dist,NTU 9th Women's Dorm(Southwest),25.01937,121.53902
+508101050,臺大小福樓東側,大安區,臺大小福樓東側,NTU Xiao Fu Commissary(East),Daan Dist,NTU Xiao Fu Commissary(East),25.01846,121.5376
+508101051,臺大立體機車停車場,大安區,基隆路三段/基隆路三段156巷口北側,NTU Parking lot(Motorcycle),Daan Dist,Ln. 156 Sec. 3 Keelung Rd. Intersection(North),25.01616,121.54251
+508101052,臺大工綜館南側,大安區,臺大工學院東南側,NTU College of Engineering Building(South),Daan Dist,NTU College of Engineering Building(Southeast),25.01857,121.54059
+508101053,臺大天文數學館南側,大安區,臺大天文數學館西南側,NTU Astronomy - Mathematics Building(South),Daan Dist,NTU Astronomy - Mathematics Building(Southwest),25.02108,121.53783
+508101054,臺大心理系館南側,大安區,臺大心理學系南側,NTU Dept. of Psychology (South Hall),Daan Dist,NTU Dept. of Psychology (South Hall),25.01941,121.5404
+508101055,臺大樂學館東側,大安區,臺大文學院西側,NTU Lesyue Building(East),Daan Dist,Liberal Arts Research Building(West),25.01793,121.53585
+508101056,臺大農化新館西側,大安區,臺大生化科技學系西側,NTU New Agricultural Chemistry Building(West),Daan Dist,NTU Department of Biochemical Science and Technology(West),25.01627,121.53535
+508101057,臺大五號館西側,大安區,臺大生物系館西側,NTU Building No.5(West),Daan Dist,NTU Department of Bioenvironmental Systems Engineering(West),25.01666,121.53718
+508101058,臺大舊體育館西側,大安區,臺大田徑場東側,NTU Gymnasium(West),Daan Dist,NTU Sports Field(East),25.0198,121.53583
+508101059,臺大共同教室北側,大安區,臺大共同教學館東北側,NTU Common Subjects Classroom Building(North),Daan Dist,NTU Common Subjects Classroom Building(Northeast),25.01595,121.53791
+508101060,臺大共同教室東南側,大安區,臺大共同教學館東南側,NTU Common Subjects Classroom Building(Southeast),Daan Dist,NTU Common Subjects Classroom Building(Southeast),25.01566,121.53786
+508101061,臺大鹿鳴堂東側,大安區,臺大鹿鳴廣場人行道側,NTU LuMing Hall(East),Daan Dist,NTU Lu Ming Square(Sidewalk),25.01511,121.53786
+508101062,臺大公館停車場西北側,大安區,臺大公館停車場西北側,NTU Gongguan Car Park (Northwest),Daan Dist,NTU Gongguan Car Park (Northwest),25.01345,121.53798
+508101063,臺大第二行政大樓南側,大安區,臺大行政大樓西側,NTU 2nd Administration Building(South),Daan Dist,NTU Administration Building(West),25.01603,121.53635
+508101064,臺大明達館機車停車場,大安區,臺大明達館西側,NTU Ming - Da Hall Parking,Daan Dist,NTU Ming - Da Hall(West),25.01754,121.54398
+508101065,臺大二號館,大安區,臺大物理文物廳北側,NTU Building No.2,Daan Dist,NTU Heritage Hall of Physics,25.01699,121.53574
+508101066,臺大凝態館南側,大安區,臺大物理系館南側,NTU Center for Condensed Matter Sciences(South),Daan Dist,NTU Dept. of Physics Library,25.02157,121.53633
+508101067,臺大社科院西側,大安區,臺大社科院西側,NTU College of social Sciences Building(West),Daan Dist,NTU College of social Sciences Building(West),25.02053,121.54145
+508101068,臺大社會系館南側,大安區,臺大社會及社工館南側,NTU Department of Sociology(South),Daan Dist,NTU Dept. of Sociology / Dept. of Social Work(South),25.01987,121.54175
+508101069,臺大思亮館東南側,大安區,臺大思亮館東南側,NTU Shih - Liang Hall(Southeast),Daan Dist,NTU Shih - Liang Hall(Southeast),25.02074,121.53906
+508101070,臺大椰林小舖,大安區,臺大椰林小舖旁,NTU Green Cabin,Daan Dist,NTU Green Cabin,25.01561,121.53583
+508101071,臺大計資中心南側,大安區,臺大計算機網路資訊中心南側,NTU Computer and Information Networking Center(South),Daan Dist,NTU Computer and Information Networking Center(South),25.02036,121.53992
+508101072,臺大原分所北側,大安區,臺大原子與分子科學研究所東北側,NTU Institute of Atomic and Molecular Sciences(North),Daan Dist,NTU Institute of Atomic and Molecular Sciences(Northeast),25.01881,121.53868
+508101073,臺大校史館南側,大安區,臺大校史館南側,NTU Library/Gallery of University History(South),Daan Dist,NTU Library/Gallery of University History(South),25.01751,121.53569
+508101074,臺大生命科學館西北側,大安區,臺大動物博物館西側,NTU Life Science Building(Northwest),Daan Dist,Museum of Zoology(West),25.01548,121.53825
+508101075,臺大第一活動中心西南側,大安區,第一學生活動中心東南側,NTU 1st Student Activity Center(Southwest),Daan Dist,NTU 1st Student Activity Center(Southeast),25.01761,121.53995
+508101076,臺大博理館西側,大安區,臺大博理館西側,NTU Barry Lam Hall(West),Daan Dist,NTU Barry Lam Hall(West),25.01922,121.54195
+508101077,臺大博雅館西側,大安區,臺大博雅館西側,NTU Liberal Education Classroom Building(West),Daan Dist,NTU Liberal Education Classroom Building(West),25.0189,121.536
+508101078,臺大森林館北側,大安區,臺大森林系學系北側,NTU Forestry Building(North),Daan Dist,NTU Forestry Building(North),25.01704,121.53888
+508101079,臺大一號館,大安區,臺大植物魚類標本館一號館北側,NTU Building No.1,Daan Dist,NTU Building No.1(North),25.01698,121.53455
+508101081,臺大教研館北側,大安區,臺大雅頌廣場東南側,NTU Teaching and Research Building(North),Daan Dist,NTU The Odeum Square(Southeast),25.01337,121.53909
+508101082,臺大四號館東北側,大安區,臺大園藝暨景觀學系北側,NTU Building No.4(Northeast),Daan Dist,NTU Department of Horticulture(North),25.01703,121.53781
+508101083,臺大新生教室南側,大安區,臺大新生教學館南側,NTU Freshman Classroom Building(South),Daan Dist,NTU Freshman Classroom Building(South),25.0196,121.53846
+508101084,臺大鄭江樓北側,大安區,臺大新聞研究所南側,NTU Tseng Jiang Hall(North),Daan Dist,NTU Graduate Institute of Journalism(South),25.019,121.54305
+508101085,臺大電機二館東南側,大安區,臺大電機二館南側,NTU E. E. Building No. 2(Southeast),Daan Dist,NTU E. E. Building No. 2(Southeast),25.01857,121.54247
+508101086,臺大圖資系館北側,大安區,臺大圖書資訊館北側,NTU Dept. of Library and Information Sciences(North),Daan Dist,NTU Dept. of Library and Information Sciences(North),25.01804,121.53928
+508101087,臺大總圖書館西南側,大安區,臺大圖書館西南側,NTU Main Library(Southwest),Daan Dist,NTU Main Library(Southwest),25.0169,121.54031
+508101088,臺大黑森林西側,大安區,臺大霖澤館南側,NTU Black Forest(West),Daan Dist,NTU Tsai Lecture Hall(South),25.01995,121.54347
+508101089,臺大獸醫館南側,大安區,臺大獸醫系館南側,NTU Dept. of Veterinary Medicine(South),Daan Dist,NTU Dept. of Veterinary Medicine(South),25.01791,121.54242
+508101090,臺大新體育館東南側,大安區,臺大體育館東側,NTU Sports Center(Southeast),Daan Dist,NTU Sports Center(East),25.02112,121.53591
+508101080,臺大小小福西南側,大安區,臺大進修教育大樓,NTU Xiao Xiao Fu Commissary(Southwest),Daan Dist,NTU Omnium Gatherum Building,25.01539,121.53686
+500101022,捷運公館站(2號出口),大安區,捷運公館站(2號出口)外側,MRT Gongguan Sta. (Exit 2),Daan Dist.,MRT Gongguan Sta. (Exit 2),25.01491,121.53438
